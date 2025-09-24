@@ -1,6 +1,8 @@
 using System.Text.Json;
 using Azure;
 using Azure.Data.Tables;
+using Azure.Data.Tables.Models;
+using TrilhaNetAzureDesafio.Models;
 
 namespace TrilhaNetAzureDesafio.Models
 {
